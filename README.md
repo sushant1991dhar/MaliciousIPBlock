@@ -1,2 +1,2 @@
 # MaliciousIPBlock
-MaliciousIPBlock - MAF
+MaliciousIPandURLBlock - MAF
